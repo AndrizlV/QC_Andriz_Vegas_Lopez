@@ -1,2 +1,2 @@
-# QC_Andriz_Vegas_Lopez
-A repository to record all projects, developments and trainings regarding Quantum Computing
+# QIP4SA: Quantum Image Processing for Space Applications
+A repository to record all projects, developments and trainings regarding Quantum image processing for Space Applications.
